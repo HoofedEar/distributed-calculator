@@ -11,7 +11,7 @@ The original distributed-calculator project demonstrates method invocation and s
 - A Go [mux](https://github.com/gorilla/mux) application, implementing addition.
 - A Java [Spark](https://sparkjava.com/) application, implementing addition and multiplication.
 - A Kotlin [Ktor](https://ktor.io/) application, implementing division.
-- A C# [ASP.NET 7.0](https://docs.microsoft.com/en-us/dotnet/core/) application, implementing subtraction.
+- A C# [ASP.NET 8.0](https://docs.microsoft.com/en-us/dotnet/core/) application, implementing subtraction.
 - A Python [flask](https://flask.palletsprojects.com/en/2.2.x/) application, implementing multiplication.
 - A PHP [Symfony](https://symfony.com/) application, implementing subtraction.
 - A Node [Express](https://expressjs.com/) application, implementing division.
@@ -37,7 +37,7 @@ The diagram below showcases the architecture of the original project:
 ## Prerequisites for Running the Project
 
 1. Install [Dapr CLI](https://github.com/dapr/cli)
-2. Install [.NET SDK 7.0](https://dotnet.microsoft.com/download)
+2. Install [.NET SDK 8.0](https://dotnet.microsoft.com/download)
 3. Install [Go](https://golang.org/doc/install)
 4. Install [Python3](https://www.python.org/downloads/) and [Pipenv](https://pypi.org/project/pipenv/)
 5. Install [Npm](https://www.npmjs.com/get-npm)
